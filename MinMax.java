@@ -1,4 +1,4 @@
-// FInd the minimum and maximum value in an array
+// Ch.5 FInd the minimum and maximum value in an array
 
 class MinMax {
   public static void main(String[] args) {
