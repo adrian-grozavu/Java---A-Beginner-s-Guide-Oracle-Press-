@@ -9,7 +9,7 @@
         ch = (char) ('a' + i);
         System.out.print(ch);
 
-        // Turn off the 6th bit
+        // Turn off the 6th bit | & is bitwise AND
         ch = (char) ((int) (ch & 65503));
         System.out.print(ch + " ");
       }
