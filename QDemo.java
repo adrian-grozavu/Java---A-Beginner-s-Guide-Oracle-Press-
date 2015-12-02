@@ -1,5 +1,5 @@
 // Ch5. Implement a queue data structure
-
+/*
 class Queue {
   char q[]; // array to hold the queue
   int putloc, getloc; // put and get indices
@@ -27,7 +27,7 @@ class Queue {
     }
     return q[getloc++];
   }
-}
+}*/
 // Demonstrate the Queue class
 
 class QDemo {
